@@ -11,7 +11,7 @@ Realizei o desenvolvimento do Microservice com base no vídeo [Youtube Channel](
 
 ## Aprendizado
 
-Foi de grande importância realizar a resolução desse desafio backend, pois consegui compreender como funciona um teste técnico de uma empresa e também obter novos conhecimentos através de um profissional que já atua na área que desejo ingressar.
+Foi de grande importância realizar a resolução desse desafio backend, pois consegui compreender como funciona um teste técnico de uma empresa e também obter novos conhecimentos sobre mensageria via email service com AWS através de um profissional que já atua na área que desejo ingressar.
 
 ## Sumário
 
