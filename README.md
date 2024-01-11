@@ -19,7 +19,6 @@ Foi de grande importância realizar a resolução desse desafio backend, pois co
 - [Configuração](#configuration)
 - [Uso](#usage)
 - [API Endpoints](#api-endpoints)
-- [Banco de dados](#database)
 
 ## Instalação
 
