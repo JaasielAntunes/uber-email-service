@@ -9,6 +9,10 @@ Este projeto é a construção de uma API utilizando as stacks **Java, Java Spri
 
 Realizei o desenvolvimento do Microservice com base no vídeo [Youtube Channel](https://youtu.be/eFgeO9M9lLw?si=uyhUXrR-NLEpBW6p), o qual foi demonstrado a resolução do [Uber Backend Challenge](https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md).
 
+## Aprendizado
+
+Foi de grande importância realizar a resolução desse desafio backend, pois consegui compreender como funciona um teste técnico de uma empresa e também obter novos conhecimentos através de um profissional que já atua na área que desejo ingressar.
+
 ## Sumário
 
 - [Instalação](#installation)
