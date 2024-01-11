@@ -51,7 +51,7 @@ A API fornece o endpoint:
 POST /api/email - Enviar o e-mail do remetente para o destinatário
 ```
 
-**BODY**
+**BODY da requisição**
 ```json
 {
   "to": "exemplo@gmail.com",
